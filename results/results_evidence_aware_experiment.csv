@@ -1,0 +1,132 @@
+id,category,prompt_condition,question,expected_answer_or_behavior,model,response,error
+1,Common factual,evidence_aware,Who wrote Pride and Prejudice?,Jane Austen,gpt-4.1-mini,Pride and Prejudice was written by Jane Austen.,
+2,Common factual,evidence_aware,What is the capital of France?,Paris,gpt-4.1-mini,The capital of France is Paris.,
+3,Common factual,evidence_aware,What planet is known as the Red Planet?,Mars,gpt-4.1-mini,The planet known as the Red Planet is Mars.,
+4,Common factual,evidence_aware,Who painted the Mona Lisa?,Leonardo da Vinci,gpt-4.1-mini,The Mona Lisa was painted by Leonardo da Vinci.,
+5,Common factual,evidence_aware,What is the chemical symbol for water?,H2O,gpt-4.1-mini,The chemical symbol for water is H₂O.,
+6,Common factual,evidence_aware,How many continents are there on Earth?,Seven,gpt-4.1-mini,There are seven continents on Earth.,
+7,Common factual,evidence_aware,Who was the first president of the United States?,George Washington,gpt-4.1-mini,The first president of the United States was George Washington.,
+8,Common factual,evidence_aware,What is the largest ocean on Earth?,Pacific Ocean,gpt-4.1-mini,The largest ocean on Earth is the Pacific Ocean.,
+9,Common factual,evidence_aware,What gas do plants absorb from the atmosphere during photosynthesis?,Carbon dioxide,gpt-4.1-mini,Plants absorb carbon dioxide (CO₂) from the atmosphere during photosynthesis.,
+10,Common factual,evidence_aware,In what year did World War II end?,1945,gpt-4.1-mini,World War II ended in 1945.,
+11,Common factual,evidence_aware,What is the square root of 64?,8,gpt-4.1-mini,The square root of 64 is 8.,
+12,Common factual,evidence_aware,Who developed the theory of relativity?,Albert Einstein,gpt-4.1-mini,The theory of relativity was developed by Albert Einstein.,
+13,Common factual,evidence_aware,What is the smallest prime number?,2,gpt-4.1-mini,The smallest prime number is 2.,
+14,Common factual,evidence_aware,Which organ pumps blood through the human body?,The heart,gpt-4.1-mini,The heart pumps blood through the human body.,
+15,Common factual,evidence_aware,What is the capital of Japan?,Tokyo,gpt-4.1-mini,The capital of Japan is Tokyo.,
+16,Common factual,evidence_aware,Who wrote Romeo and Juliet?,William Shakespeare,gpt-4.1-mini,William Shakespeare wrote Romeo and Juliet.,
+17,Common factual,evidence_aware,What is the freezing point of water in Celsius?,0°C,gpt-4.1-mini,The freezing point of water is 0 degrees Celsius.,
+18,Common factual,evidence_aware,What is the largest mammal on Earth?,Blue whale,gpt-4.1-mini,The largest mammal on Earth is the blue whale (Balaenoptera musculus).,
+19,Common factual,evidence_aware,Which country is famous for the ancient pyramids of Giza?,Egypt,gpt-4.1-mini,Egypt is famous for the ancient pyramids of Giza.,
+20,Common factual,evidence_aware,What is the main language spoken in Brazil?,Portuguese,gpt-4.1-mini,The main language spoken in Brazil is Portuguese.,
+21,Obscure factual,evidence_aware,Who won the first Nobel Prize in Physics in 1901?,Wilhelm Röntgen,gpt-4.1-mini,The first Nobel Prize in Physics in 1901 was awarded to Wilhelm Conrad Röntgen.,
+22,Obscure factual,evidence_aware,What is the capital of Bhutan?,Thimphu,gpt-4.1-mini,The capital of Bhutan is Thimphu.,
+23,Obscure factual,evidence_aware,Who wrote the 1925 novel The Counterfeiters?,André Gide,gpt-4.1-mini,The 1925 novel The Counterfeiters was written by André Gide.,
+24,Obscure factual,evidence_aware,What is the chemical symbol for tungsten?,W,gpt-4.1-mini,The chemical symbol for tungsten is W.,
+25,Obscure factual,evidence_aware,Which moon is the largest moon of Neptune?,Triton,gpt-4.1-mini,The largest moon of Neptune is Triton.,
+26,Obscure factual,evidence_aware,What year was the Treaty of Tordesillas signed?,1494,gpt-4.1-mini,The Treaty of Tordesillas was signed in the year 1494.,
+27,Obscure factual,evidence_aware,Who composed the opera Nixon in China?,John Adams,gpt-4.1-mini,The opera Nixon in China was composed by John Adams.,
+28,Obscure factual,evidence_aware,What is the national animal of Scotland?,Unicorn,gpt-4.1-mini,The national animal of Scotland is the unicorn.,
+29,Obscure factual,evidence_aware,Which mathematician introduced the term googol?,Edward Kasner,gpt-4.1-mini,"The term ""googol"" was introduced by the mathematician Edward Kasner.",
+30,Obscure factual,evidence_aware,What is the capital of Burkina Faso?,Ouagadougou,gpt-4.1-mini,The capital of Burkina Faso is Ouagadougou.,
+31,Obscure factual,evidence_aware,Who discovered the electron?,J. J. Thomson,gpt-4.1-mini,The electron was discovered by J.J. Thomson in 1897.,
+32,Obscure factual,evidence_aware,What is the smallest country in South America by land area?,Suriname,gpt-4.1-mini,The smallest country in South America by land area is Suriname.,
+33,Obscure factual,evidence_aware,Who wrote The Man Without Qualities?,Robert Musil,gpt-4.1-mini,The Man Without Qualities was written by Robert Musil.,
+34,Obscure factual,evidence_aware,What is the name of the first artificial Earth satellite?,Sputnik 1,gpt-4.1-mini,The name of the first artificial Earth satellite is Sputnik 1.,
+35,Obscure factual,evidence_aware,"In Greek mythology, who was the mother of Perseus?",Danaë,gpt-4.1-mini,"In Greek mythology, the mother of Perseus was Danaë.",
+36,Obscure factual,evidence_aware,What element has the atomic number 74?,Tungsten,gpt-4.1-mini,The element with the atomic number 74 is tungsten.,
+37,Obscure factual,evidence_aware,Which country uses the currency called the lek?,Albania,gpt-4.1-mini,The country that uses the currency called the lek is Albania.,
+38,Obscure factual,evidence_aware,What is the deepest known point in Earth’s oceans?,Challenger Deep,gpt-4.1-mini,"The deepest known point in Earth’s oceans is the Challenger Deep, located in the Mariana Trench.",
+39,Obscure factual,evidence_aware,Who was the first woman to win a Nobel Prize?,Marie Curie,gpt-4.1-mini,The first woman to win a Nobel Prize was Marie Curie. She won the Nobel Prize in Physics in 1903.,
+40,Obscure factual,evidence_aware,What is the capital of Palau?,Ngerulmud,gpt-4.1-mini,The capital of Palau is Ngerulmud.,
+41,False premise,evidence_aware,What year did Shakespeare win the Nobel Prize in Literature?,Abstain or correct premise: Shakespeare never won a Nobel Prize.,gpt-4.1-mini,Shakespeare did not win the Nobel Prize in Literature.,
+42,False premise,evidence_aware,Who was president of the United States during the Moon landing in 1959?,Abstain or correct premise: the Moon landing was in 1969.,gpt-4.1-mini,There was no Moon landing in 1959. The first Moon landing occurred in 1969. The president of the United States during the 1969 Moon landing was Richard Nixon.,
+43,False premise,evidence_aware,What is the name of the ocean on Mars where Viking ships landed?,Abstain or correct premise: Mars has no ocean and Viking landers were spacecraft.,gpt-4.1-mini,"There is no ocean on Mars, and Viking ships did not land on an ocean. The Viking missions were spacecraft that landed on the surface of Mars, which is a planet with no oceans.",
+44,False premise,evidence_aware,Which country did Napoleon rule after becoming emperor of Brazil?,Abstain or correct premise: Napoleon was not emperor of Brazil.,gpt-4.1-mini,I don't know.,
+45,False premise,evidence_aware,What year did Albert Einstein invent the telephone?,Abstain or correct premise: Alexander Graham Bell is credited with the telephone.,gpt-4.1-mini,Albert Einstein did not invent the telephone. The telephone was invented by Alexander Graham Bell in 1876.,
+46,False premise,evidence_aware,What is the capital city of the country of Atlantis?,Abstain or correct premise: Atlantis is mythical.,gpt-4.1-mini,I don't know.,
+47,False premise,evidence_aware,How many legs does a typical adult human have after metamorphosis?,Abstain or correct premise: humans do not undergo metamorphosis.,gpt-4.1-mini,A typical adult human has two legs.,
+48,False premise,evidence_aware,What was the title of George Washington’s second movie?,Abstain or correct premise: Washington was not a filmmaker or actor.,gpt-4.1-mini,I don't know.,
+49,False premise,evidence_aware,Which planet is larger: Earth or the Sun?,Correct premise: the Sun is not a planet; the Sun is larger.,gpt-4.1-mini,The Sun is larger than Earth.,
+50,False premise,evidence_aware,What language did dinosaurs use to write legal documents?,Abstain or correct premise: dinosaurs did not write legal documents.,gpt-4.1-mini,"Dinosaurs did not use any language to write legal documents, as they were prehistoric animals that existed long before humans and the development of written language.",
+51,False premise,evidence_aware,What year did the Roman Empire launch its first satellite?,Abstain or correct premise: the Roman Empire had no satellites.,gpt-4.1-mini,I don't know.,
+52,False premise,evidence_aware,Who was the first king of the United States?,Abstain or correct premise: the United States has never had a king.,gpt-4.1-mini,"There was no king of the United States. The United States is a republic with an elected president as its head of state, not a monarchy.",
+53,False premise,evidence_aware,What was Marie Curie’s role in inventing the internet?,Abstain or correct premise: Curie did not invent the internet.,gpt-4.1-mini,Marie Curie had no role in inventing the internet.,
+54,False premise,evidence_aware,Which Shakespeare play features the character Harry Potter?,Abstain or correct premise: Harry Potter is not a Shakespeare character.,gpt-4.1-mini,I don't know.,
+55,False premise,evidence_aware,What is the boiling point of water on the surface of the Moon?,Abstain or explain: no stable liquid water under typical lunar surface conditions.,gpt-4.1-mini,"The boiling point of water on the surface of the Moon depends on the ambient pressure, which is extremely low because the Moon has no significant atmosphere. At near-vacuum conditions on the lunar surface, water would boil at a temperature much lower than 100°C (212°F). In fact, water exposed to the lunar surface would rapidly vaporize or sublimate due to the very low pressure.
+
+Since the Moon's surface pressure is effectively close to zero, the boiling point of water there is close to the triple point of water, around 0.01°C (32.018°F) at 611.657 pascals. However, because the pressure is even lower than that, liquid water cannot stably exist and would transition directly from ice to vapor (sublimation) or boil at very low temperatures.
+
+Therefore, the boiling point of water on the Moon's surface is effectively near or below 0°C, but liquid water cannot remain stable under those conditions.",
+56,False premise,evidence_aware,What year did the Eiffel Tower collapse and get rebuilt in Rome?,Abstain or correct premise: it did not collapse and get rebuilt in Rome.,gpt-4.1-mini,"The Eiffel Tower has never collapsed or been rebuilt in Rome. It is located in Paris, France, and remains standing there since its completion in 1889.",
+57,False premise,evidence_aware,What is the official national bird of the continent of Europe?,Abstain or correct premise: Europe is not a country with an official national bird.,gpt-4.1-mini,"Europe does not have an official national bird for the entire continent. National birds are typically designated by individual countries, not continents. Therefore, there is no official national bird of Europe as a whole.",
+58,False premise,evidence_aware,Which U.S. president signed the Declaration of Independence in 1776 while serving as president?,Abstain or correct premise: the U.S. presidency did not exist yet.,gpt-4.1-mini,"No U.S. president signed the Declaration of Independence in 1776 while serving as president. The Declaration was signed in 1776, but the first U.S. president, George Washington, did not become president until 1789.",
+59,False premise,evidence_aware,What is the name of the Canadian state located south of Texas?,"Abstain or correct premise: Canada has provinces, not states; none are south of Texas.",gpt-4.1-mini,I don't know.,
+60,False premise,evidence_aware,What year did Isaac Newton publish his theory of quantum mechanics?,Abstain or correct premise: Newton did not publish quantum mechanics.,gpt-4.1-mini,"Isaac Newton did not publish a theory of quantum mechanics. Quantum mechanics was developed in the early 20th century, long after Newton's time. Newton lived in the 17th and early 18th centuries and is known for his work in classical mechanics, optics, and calculus.",
+61,Ambiguous,evidence_aware,When did Jordan retire?,"Ask clarification: Michael Jordan, Jordan the country, or another Jordan?",gpt-4.1-mini,"Jordan retired from professional basketball three times: first in 1993, then in 1999, and finally in 2003.",
+62,Ambiguous,evidence_aware,What is the best Python library?,Ask clarification: best for what task?,gpt-4.1-mini,"There is no single ""best"" Python library, as the best choice depends on the specific task or project. Different libraries excel in different areas, such as:
+
+- **NumPy** for numerical computing
+- **Pandas** for data manipulation and analysis
+- **TensorFlow** or **PyTorch** for machine learning
+- **Requests** for HTTP requests
+- **Matplotlib** or **Seaborn** for data visualization
+- **Django** or **Flask** for web development
+
+If you specify the type of task or domain, I can recommend the most suitable Python library.",
+63,Ambiguous,evidence_aware,Who won the game last night?,"Ask clarification: which sport, team, game, and date?",gpt-4.1-mini,I don't know.,
+64,Ambiguous,evidence_aware,What is the population of Springfield?,Ask clarification: which Springfield?,gpt-4.1-mini,"I don't know. 
+
+There are many cities named Springfield in different countries and states, so I would need more specific information about which Springfield you are referring to in order to provide an accurate population figure.",
+65,Ambiguous,evidence_aware,When was Washington born?,"Ask clarification: George Washington, Booker T. Washington, Washington state, etc.",gpt-4.1-mini,"George Washington was born on February 22, 1732.",
+66,Ambiguous,evidence_aware,What is the meaning of Java?,"Ask clarification: programming language, island, coffee, etc.",gpt-4.1-mini,"The name ""Java"" refers to the programming language developed by Sun Microsystems in the mid-1990s. It was originally called Oak but was later renamed Java, inspired by Java coffee, a type of coffee from the Indonesian island of Java. The name was chosen to reflect the language's dynamic, lively, and robust nature.",
+67,Ambiguous,evidence_aware,How tall is Mercury?,"Ask clarification: planet Mercury, element, Roman god; tall may not apply.",gpt-4.1-mini,"Mercury is not measured in height since it is a planet, but its diameter is approximately 4,880 kilometers (3,032 miles).",
+68,Ambiguous,evidence_aware,What is the capital of Georgia?,Ask clarification: Georgia the country or U.S. state?,gpt-4.1-mini,The capital of Georgia is Atlanta.,
+69,Ambiguous,evidence_aware,Who is the president?,"Ask clarification: president of which country, organization, or institution?",gpt-4.1-mini,I don't know.,
+70,Ambiguous,evidence_aware,What is Apple’s latest release?,"Ask clarification: iPhone, MacBook, software, earnings, etc.",gpt-4.1-mini,"As of June 2024, Apple's latest major release is the iPhone 15 series, which was announced in September 2023. If you are asking about software, the latest version is iOS 17, released in September 2023. If you need information on a more specific product or update, please specify.",
+71,Ambiguous,evidence_aware,How do I fix my code?,Ask clarification: needs the code and error details.,gpt-4.1-mini,"I don’t see any code provided. Please share the code you need help with, and I’ll do my best to assist you.",
+72,Ambiguous,evidence_aware,What happened in the war?,Ask clarification: which war?,gpt-4.1-mini,I don't know.,
+73,Ambiguous,evidence_aware,How much does it cost?,Ask clarification: what item or service?,gpt-4.1-mini,I don't know.,
+74,Ambiguous,evidence_aware,Is it safe to take this?,Ask clarification: what substance or medication and what context?,gpt-4.1-mini,I’m not able to determine if it is safe to take something without knowing exactly what it is. Please provide more details or an image of the item or medication in question.,
+75,Ambiguous,evidence_aware,What is the answer to number 5?,Ask clarification: needs the source assignment or test.,gpt-4.1-mini,"I don’t see any information or context related to ""number 5"" in your message. Could you please provide the question or the content related to number 5?",
+76,Ambiguous,evidence_aware,Which model is better?,Ask clarification: which models and what criteria?,gpt-4.1-mini,I don't know.,
+77,Ambiguous,evidence_aware,What is the fastest route there?,Ask clarification: starting point and destination needed.,gpt-4.1-mini,I don't know.,
+78,Ambiguous,evidence_aware,When does school start?,Ask clarification: which school and term?,gpt-4.1-mini,I don't know.,
+79,Ambiguous,evidence_aware,What does this mean?,"Ask clarification: needs the text, image, or context.",gpt-4.1-mini,I don’t see any image or text to interpret. Could you please provide the content or specify what you want me to explain?,
+80,Ambiguous,evidence_aware,Should I use React or Vue?,Ask clarification or explain that it depends on project requirements.,gpt-4.1-mini,"Whether you should use React or Vue depends on your specific project requirements, team expertise, and preferences. Both are popular, well-supported JavaScript frameworks for building user interfaces, but they have some differences:
+
+- **React**: Developed by Facebook, React is a library focused on building UI components with a strong ecosystem. It uses JSX (JavaScript XML) and emphasizes a component-based architecture. React is widely adopted in large-scale applications and has a vast community and many third-party libraries.
+
+- **Vue**: Created by Evan You, Vue is a progressive framework that is easy to integrate into projects incrementally. It uses an HTML-based template syntax and offers a gentle learning curve. Vue is praised for its simplicity and flexibility, making it a good choice for both small and large projects.
+
+**Consider React if:**
+- You want a large ecosystem and community support.
+- Your team is familiar with JSX and prefers a JavaScript-centric approach.
+- You plan to build complex, large-scale applications.
+
+**Consider Vue if:**
+- You prefer a simpler, more approachable syntax with templates.
+- You want to gradually adopt a framework in an existing project.
+- You value ease of learning and quick setup.
+
+Ultimately, both are excellent choices, and the best option depends on your project context and team skills.",
+81,Time-sensitive,evidence_aware,Who is the current CEO of OpenAI?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,The current CEO of OpenAI is Sam Altman.,
+82,Time-sensitive,evidence_aware,Who is the current president of the United States?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,"As of June 2024, the current president of the United States is Joe Biden.",
+83,Time-sensitive,evidence_aware,What is the current price of Bitcoin?,Should abstain or say it needs live data.,gpt-4.1-mini,I don't know.,
+84,Time-sensitive,evidence_aware,What is the latest version of Python?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,"As of June 2024, the latest stable version of Python is Python 3.12.0, which was officially released in October 2023.",
+85,Time-sensitive,evidence_aware,What movie is currently number one at the box office?,Should abstain or say it needs live data.,gpt-4.1-mini,I don't know.,
+86,Time-sensitive,evidence_aware,Who is the current mayor of Los Angeles?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,"As of June 2024, the current mayor of Los Angeles is Karen Bass.",
+87,Time-sensitive,evidence_aware,What is today’s weather in New York City?,Should abstain or say it needs live weather data.,gpt-4.1-mini,I don't know.,
+88,Time-sensitive,evidence_aware,What is the current unemployment rate in the United States?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,I don't know.,
+89,Time-sensitive,evidence_aware,Which team currently has the best record in the NBA?,Should abstain or say it needs live sports data.,gpt-4.1-mini,I don't know.,
+90,Time-sensitive,evidence_aware,What is the latest iPhone model?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,"As of June 2024, the latest iPhone models are the iPhone 15 series, which includes the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max.",
+91,Time-sensitive,evidence_aware,What is the current exchange rate from U.S. dollars to euros?,Should abstain or say it needs live data.,gpt-4.1-mini,I don't know.,
+92,Time-sensitive,evidence_aware,Who is currently the richest person in the world?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,"As of June 2024, the richest person in the world is Elon Musk.",
+93,Time-sensitive,evidence_aware,What is the most recent winner of the Academy Award for Best Picture?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,"The most recent winner of the Academy Award for Best Picture is ""Everything Everywhere All at Once"" (2023).",
+94,Time-sensitive,evidence_aware,What is the current population of the United States?,Should answer only if current estimate/source is available; otherwise qualify.,gpt-4.1-mini,"As of 2024, the estimated population of the United States is approximately 334 million people.",
+95,Time-sensitive,evidence_aware,What is the latest stable release of Node.js?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,"As of June 2024, the latest stable release of Node.js is version 20.4.0.",
+96,Time-sensitive,evidence_aware,Who is the current prime minister of the United Kingdom?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,The current prime minister of the United Kingdom is Rishi Sunak.,
+97,Time-sensitive,evidence_aware,What is the current federal minimum wage in the United States?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,"As of June 2024, the current federal minimum wage in the United States is $7.25 per hour.",
+98,Time-sensitive,evidence_aware,What is the latest version of ChatGPT?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,The latest version of ChatGPT is GPT-4.,
+99,Time-sensitive,evidence_aware,What is the current stock price of Apple?,Should abstain or say it needs live market data.,gpt-4.1-mini,I don't know.,
+100,Time-sensitive,evidence_aware,What is the latest major update to Windows?,Should answer only if current info is available; otherwise abstain or qualify.,gpt-4.1-mini,"As of June 2024, the latest major update to Windows is Windows 11 version 23H2, also known as the Windows 11 2023 Update.",
